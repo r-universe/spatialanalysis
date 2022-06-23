@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "geodaData"]
+	path = geodaData
+	url = https://github.com/spatialanalysis/geodadata
+	shallow = true
+	registered = true
